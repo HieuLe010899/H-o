@@ -1,0 +1,74 @@
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe.config
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csprojAssemblyReference.cache
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Properties.Resources.resources
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.GenerateResource.cache
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.CoreCompileInputs.cache
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.exe
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Login.resources
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormRegister.resources
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormFgp.resources
+F:\HieuCho\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormFillInfo.resources
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe.config
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csprojAssemblyReference.cache
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Login.resources
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormRequest.resources
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Properties.Resources.resources
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.GenerateResource.cache
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.CoreCompileInputs.cache
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.exe
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormCreSeason.resources
+F:\DoAnCuoiKy\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormInfoTeam.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csprojAssemblyReference.cache
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormFixtureandResult.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Login.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormReport.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormRequest.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormSchedule.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Properties.Resources.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.GenerateResource.cache
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.CoreCompileInputs.cache
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.exe
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.pdb
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe.config
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.pdb
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormClass.resources
+C:\Users\MNiT\Desktop\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormMember.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csprojAssemblyReference.cache
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormFixtureandResult.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormClass.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormMember.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Login.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormReport.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormRequest.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormSchedule.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Properties.Resources.resources
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.GenerateResource.cache
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.CoreCompileInputs.cache
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.exe
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.pdb
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe.config
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe
+C:\Users\Di Sois\Desktop\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe.config
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.exe
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\bin\Debug\QLGiaiBDKhoaCNTT.pdb
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csprojAssemblyReference.cache
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormFixtureandResult.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormClass.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormMember.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Login.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormReport.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormRequest.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.FormSchedule.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.Properties.Resources.resources
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.GenerateResource.cache
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.csproj.CoreCompileInputs.cache
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.exe
+F:\DoAnCuoiKy\APP19_11\QLGiaiBDKhoaCNTT\QLGiaiBDKhoaCNTT\obj\Debug\QLGiaiBDKhoaCNTT.pdb
