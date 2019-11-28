@@ -1,2 +1,1 @@
-# H-o
-Đồ án CNPM
+# Đồ án CNPM
